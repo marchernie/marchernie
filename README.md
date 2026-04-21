@@ -1,4 +1,4 @@
-<div id="header" align="center">
-  <h1> Hi there, I'm Mary👋 </h1>
-  <h3> BI Analyst </h3>
-</div>
+## 🛠 Стек технологий
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchernie&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top Languages" />
+</p>
